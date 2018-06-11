@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/xampp/htdocs/Yii1_homework/Homework1/models/tables/Task.php</file>
+            <file>file:/C:/xampp/htdocs/Yii1_homework/Homework1/controllers/AdminTaskController.php</file>
+            <file>file:/C:/xampp/htdocs/Yii1_homework/Homework1/views/task/index_old_list.php</file>
+            <file>file:/C:/xampp/htdocs/Yii1_homework/Homework1/views/task/_err404.php</file>
+            <file>file:/C:/xampp/htdocs/Yii1_homework/Homework1/views/admin-task/update.php</file>
+            <file>file:/C:/xampp/htdocs/Yii1_homework/Homework1/views/task/update.php</file>
+            <file>file:/C:/xampp/htdocs/Yii1_homework/Homework1/views/task/_notLoggedIn.php</file>
+            <file>file:/C:/xampp/htdocs/Yii1_homework/Homework1/config/web.php</file>
+            <file>file:/C:/xampp/htdocs/Yii1_homework/Homework1/migrations/m180604_030028_create_tasks_table.php</file>
+            <file>file:/C:/xampp/htdocs/Yii1_homework/Homework1/migrations/m180607_200204_create_column_users.php</file>
+            <file>file:/C:/xampp/htdocs/Yii1_homework/Homework1/models/Contacter.php</file>
+            <file>file:/C:/xampp/htdocs/Yii1_homework/Homework1/models/tables/TaskSearch.php</file>
+            <file>file:/C:/xampp/htdocs/Yii1_homework/Homework1/yii</file>
+            <file>file:/C:/xampp/htdocs/Yii1_homework/Homework1/views/task/_form.php</file>
+            <file>file:/C:/xampp/htdocs/Yii1_homework/Homework1/models/User.php</file>
+            <file>file:/C:/xampp/htdocs/Yii1_homework/Homework1/views/task/single.php</file>
+            <file>file:/C:/xampp/htdocs/Yii1_homework/Homework1/views/task/_post.php</file>
+            <file>file:/C:/xampp/htdocs/Yii1_homework/Homework1/views/admin-task/create_old.php</file>
+            <file>file:/C:/xampp/htdocs/Yii1_homework/Homework1/config/test.php</file>
+            <file>file:/C:/xampp/htdocs/Yii1_homework/Homework1/views/admin-task/index.php</file>
+            <file>file:/C:/xampp/htdocs/Yii1_homework/Homework1/views/task/task_table.php</file>
+            <file>file:/C:/xampp/htdocs/Yii1_homework/Homework1/views/task/index_old.php</file>
+            <file>file:/C:/xampp/htdocs/Yii1_homework/Homework1/views/task/view.php</file>
+            <file>file:/C:/xampp/htdocs/Yii1_homework/Homework1/models/User_old.php</file>
+            <file>file:/C:/xampp/htdocs/Yii1_homework/Homework1/controllers/TaskController.php</file>
+            <file>file:/C:/xampp/htdocs/Yii1_homework/Homework1/models/Task.php</file>
+            <file>file:/C:/xampp/htdocs/Yii1_homework/Homework1/views/admin-task/_form.php</file>
+            <file>file:/C:/xampp/htdocs/Yii1_homework/Homework1/migrations/m180607_212800_add_created_updated_to_users.php</file>
+            <file>file:/C:/xampp/htdocs/Yii1_homework/Homework1/views/admin-task/create.php</file>
+            <file>file:/C:/xampp/htdocs/Yii1_homework/Homework1/models/tables/User.php</file>
+            <file>file:/C:/xampp/htdocs/Yii1_homework/Homework1/views/task/create.php</file>
+            <file>file:/C:/xampp/htdocs/Yii1_homework/Homework1/config/db.php</file>
+            <file>file:/C:/xampp/htdocs/Yii1_homework/Homework1/views/task/index.php</file>
+            <file>file:/C:/xampp/htdocs/Yii1_homework/Homework1/controllers/SiteController.php</file>
+            <file>file:/C:/xampp/htdocs/Yii1_homework/Homework1/models/ContactForm.php</file>
+            <file>file:/C:/xampp/htdocs/Yii1_homework/Homework1/migrations/m180531_115004_create_users_table.php</file>
+        </group>
+    </open-files>
+</project-private>
